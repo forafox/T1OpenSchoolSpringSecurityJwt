@@ -10,8 +10,8 @@ import io.swagger.v3.oas.annotations.tags.Tag;
 
 @OpenAPIDefinition(
         info = @Info(
-                title = "T1 Open School Spring Security and JWT ",
-                description = "Sample API of Spring Security and JWT", version = "1.0.0",
+                title = "T1 Open School Spring Security and JWT Application",
+                description = "Sample API of Spring Security and JWT Application", version = "1.0.0",
                 contact = @Contact(
                         name = "Karabanov Andrey",
                         email = "deskpa@yandex.ru"
